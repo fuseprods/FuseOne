@@ -4,7 +4,7 @@ FuseOne 3D printer - CAD files
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 
-This printer is being designed with Creo 2.0, but I will work in a .scad version of the pieces to give you the chance to customize and improve the project.
+This printer is being designed with Creo 2.0, but I will work in a .scad version of the pieces to give you the possibility to customize and improve the project.
 
 
 I will upload .STL files as soon as I try the models. 
