@@ -1,4 +1,3 @@
-==========================
 FuseOne 3D printer
 ==========================
 FuseOne 3D printer is my Final Year Project for BEng (Hons) Mechatronics in Staffordshire University and Industrial Electronics and Automation Engineering in Universidad Europea de Madrid.
@@ -32,13 +31,16 @@ Software used in this project
 (I hope to rebuild the project with open source software some day)
 
 
-Acknowledgements
-===================
-Thanks a lot to CloneWars community and Brice Espinasse
-(This is going to be a really long list, so don't worry if you feel that your name should be here and you don't see it yet)
+#Thanks a lot to:
+*   Brice Espinasse, for his help at the beginning with Creo Parametric.
+*   [fmalpartida](https://github.com/fmalpartida), for his wonderful [SAV MkI](http://www.reprap.org/wiki/SAV_MKI) and all the help configuring the electronics.
+*   [CloneWars project](http://www.reprap.org/wiki/Proyecto_Clone_Wars), for its innumerable times helping me with all the problems during the project, spetially to this magic Hangout group.
 
-Sources
-===================
+(I want this to be a really long list, so if you feel that your name should be here and you don't see it, tell me!!)
+
+##Some great sources used in this project:
+
 
 *   LionHeart electronics (http://reprap.org/wiki/SAV_MKI)
 *   CoreXY kinematics (http://corexy.com/)
+*   Marlin firmware (https://github.com/ErikZalm/Marlin)
