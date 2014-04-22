@@ -34,7 +34,8 @@ Software used in this project
 #Thanks a lot to:
 *   Brice Espinasse, for his help at the beginning with Creo Parametric.
 *   [fmalpartida](https://github.com/fmalpartida), for his wonderful [SAV MkI](http://www.reprap.org/wiki/SAV_MKI) and all the help configuring the electronics.
-*   [CloneWars project](http://www.reprap.org/wiki/Proyecto_Clone_Wars), for its innumerable times helping me with all the problems during the project, spetially to this magic Hangout group.
+*   Leon3D, for their support and their really awesome prices that make me possible to develop this prototype.
+*   [CloneWars project](http://www.reprap.org/wiki/Proyecto_Clone_Wars), for their innumerable times helping me with all the problems during the project, especially to that magic Hangout group.
 
 (I want this to be a really long list, so if you feel that your name should be here and you don't see it, tell me!!)
 
